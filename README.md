@@ -1,3 +1,5 @@
+<span style="color:red">The official repository of this project was moved to [this link](https://codigos.ufsc.br/dea/therapy-aid-tool)</span>.
+
 <h1 align="center">Therapy Aid Tool</h1>
  
 <h3 align="center">A Web App to aid in clinical and therapeutic decisions reducing analysis time for therapists</h3>
